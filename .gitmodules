@@ -1,0 +1,3 @@
+[submodule "Employee-Manager"]
+	path = Employee-Manager
+	url = https://github.com/imadovetch/Employee-Manager.git
